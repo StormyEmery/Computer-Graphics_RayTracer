@@ -1,5 +1,5 @@
 # Computer-Graphics_RayTracer
-Final Project for the Computer Graphics course at the University of Texas. It generates ray-traced images of complex scenes using the Whitted illumination model.
+Final Project for a Computer Graphics course. It generates ray-traced images of complex scenes using the Whitted illumination model.
 
 Implemented triagnle-ray intersection so that the ray tracer could display triangle meshes.
 
