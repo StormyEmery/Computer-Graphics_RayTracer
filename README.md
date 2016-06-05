@@ -12,3 +12,5 @@ Implemented anti-aliasing using super-sampling.
 Implemented cube mapping.
 
 Implemented texture mapping.
+
+Threaded ray tracing code.
